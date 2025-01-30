@@ -8,7 +8,7 @@
   Finance, Banking and Insurance, Quantitative Research Methodology
 
 - ***Higher Secondary Certificate, Business Studies***  
-  Government Commerce College  
+  Government Commerce College  (2017-2019)
   GPA: 5.00/5.00  
   Relevant courses: Accounting, Finance, Banking and Insurance, Economics, Management
   
