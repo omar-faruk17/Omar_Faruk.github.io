@@ -1,4 +1,4 @@
-# Omar Faruk
+# Quantitative Researcher
 
 ## Education
 - ***Bachelor of Social Science, Development Studies***  
