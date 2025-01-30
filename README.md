@@ -4,13 +4,14 @@
 - ***Bachelor of Social Science, Development Studies***  
   University of Dhaka (2020–2024)  
   CGPA: 3.67/4.00  
-  Relevant courses:  Microeconomics, Macroeconomics, Mathematical Economics, Statistics, Development Economics, Econometrics,  
-  Finance, Banking and Insurance, Quantitative Research Methodology
+  Relevant Courses:  Microeconomics, Macroeconomics, Mathematical Economics, Statistics, Development Economics, International Trade,
+  Finance, Banking and Insurance, Basic Econometrics, Quantitative Research Methodology, Public Finance, Poverty, Project Management
+  
 
 - ***Higher Secondary Certificate, Business Studies***  
 Government Commerce College (2017-2019)  
 GPA: 5.00/5.00  
-Relevant courses: Accounting, Finance, Banking and Insurance, Economics, Management
+Relevant Courses: Accounting, Finance, Banking and Insurance, Economics, Management
 
   
 
