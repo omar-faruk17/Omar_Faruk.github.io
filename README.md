@@ -1,4 +1,4 @@
-# Omar_Faruk.github.io
+# Omar Faruk
 
 ## Education
 - **Bachelor of Social Science, Development Studies**  
