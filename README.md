@@ -4,7 +4,7 @@
 - ***Bachelor of Social Science, Development Studies***  
   University of Dhaka (2020–2024)  
   CGPA: 3.67/4.00  
-  **Relevant courses:**  Microeconomics, Macroeconomics, Mathematical Economics, Statistics, Development Economics, Econometrics,  
+  Relevant courses:  Microeconomics, Macroeconomics, Mathematical Economics, Statistics, Development Economics, Econometrics,  
   Finance, Banking and Insurance, Quantitative Research Methodology.
   
 - **Higher Secondary Certificate, Business Studies**  
