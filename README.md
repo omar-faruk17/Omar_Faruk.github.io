@@ -14,9 +14,9 @@ GPA: 5.00/5.00
 Relevant Courses: Accounting, Finance, Banking and Insurance, Economics, Management
 
 ## Experience
-- **_Center on Budget and Policy, University of Dhaka_** (August 2023 - December 2023)
+- **_Center on Budget and Policy, University of Dhaka_** (August 2023 - July 2024)
   - Conducted Data Manipulation and Data Cleaning in R programming to create a new dataset from MICS 2019 Dataset of Bangladesh for further analysis
-  - used survival analysis in R
+  - used logistic regression and survival analysis in R
     
 
   
